@@ -28,4 +28,9 @@ commits
 `https://github.com/miscord/miscord/commit/`  
 [`https://c.misc.gq/8e13f55`](https://c.misc.gq/8e13f55)
 
+**r.misc.gq**  
+raw files  
+`https://raw.githubusercontent.com/miscord/miscord/dev`  
+[`https://r.misc.gq/Dockerfile`](https://r.misc.gq/Dockerfile)
+
 

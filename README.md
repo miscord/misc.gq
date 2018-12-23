@@ -3,6 +3,9 @@
 ### What is it?
 Basically, it's an URL shortener for Miscord links.
 
+### Why?
+I guess I'm too lazy to write out whole links ¯\\\_(ツ)_/¯
+
 ## Subdomains
 
 **i.misc.gq**  
